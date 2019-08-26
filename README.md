@@ -1,2 +1,2 @@
-# Forum
-Fórum de discussão do projeto: Portal-BR - Grupo de Estudos.
+# Fórum
+Fórum de discussão geral do projeto: [Portal-BR - Grupos de Estudos](https://portal-br.github.io/).
